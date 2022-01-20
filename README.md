@@ -16,8 +16,8 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 
 
 ### 2. 함수 배포하기
-- [자료](https://www.youtube.com/watch?v=LvfXKBOCSe0&list=PLc5x4RTrD_mACeC2Q_C2HwFDGu9jrNRv9&index=3)
-- [영상](https://youtu.be/LvfXKBOCSe0)
+- [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/2_%ED%95%A8%EC%88%98_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.pdf)
+- [영상](https://youtu.be/HEpnC1L-zwQ)
 
 
 ### 3. Dependency 추가하기, Log 확인하기
