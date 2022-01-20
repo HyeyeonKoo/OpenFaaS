@@ -7,7 +7,7 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 
 ### 0. OpenFaaS 소개
 - [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/0_openfaas_%EC%86%8C%EA%B0%9C.pdf)
-- [영상](https://youtu.be/VN06Rg0xNIs)
+- [영상](https://youtu.be/eeH5r34gfQU)
 
 
 ### 1. OpenFaaS 설치
