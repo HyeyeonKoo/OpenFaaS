@@ -22,4 +22,4 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 
 ### 3. Dependency 추가하기, Log 확인하기
 - [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/3_dependency__logging.pdf)
-- [영상](https://youtu.be/mNBefpvypQs)
+- [영상](https://youtu.be/-d42WRIKRSM)
