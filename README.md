@@ -12,7 +12,7 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 
 ### 1. OpenFaaS 설치
 - [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/1_OpenFaaS_%EC%84%A4%EC%B9%98.pdf)
-- [영상](https://youtu.be/9qv8tCd4GT4)
+- [영상](https://youtu.be/P8Oo5_zKikQ)
 
 
 ### 2. 함수 배포하기
