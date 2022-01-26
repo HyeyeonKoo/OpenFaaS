@@ -28,3 +28,8 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 #### 4. 보안
 - [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/4._%EB%B3%B4%EC%95%88.pdf)
 - [영상](https://youtu.be/G6uzgxKM8fQ)
+
+
+### 5. Minio를 storage로 사용하기
+- [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/5._Minio%EB%A5%BC_stroge%EB%A1%9C_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.pdf)
+- [영상](https://youtu.be/j2iJ8wJecfk)
