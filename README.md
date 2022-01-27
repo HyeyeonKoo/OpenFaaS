@@ -33,3 +33,8 @@ OpenFaaS를 활용해본 경험을 자료와 영상으로 공유하는 레포지
 ### 5. Minio를 storage로 사용하기
 - [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/5._Minio%EB%A5%BC_stroge%EB%A1%9C_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.pdf)
 - [영상](https://youtu.be/j2iJ8wJecfk)
+
+
+### 6. scikit-learn Model 서비스하기
+- [자료](https://github.com/HyeyeonKoo/OpenFaaS/blob/main/6._scikit-learn_model_%EC%84%9C%EB%B9%84%EC%8A%A4%ED%95%98%EA%B8%B0.pdf)
+- [영상](https://youtu.be/3LLKmcAvsyw)
